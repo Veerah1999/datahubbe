@@ -174,9 +174,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': 'decihub123',
-        'HOST':'18.217.196.203',
+        'USER': 'veera',
+        'PASSWORD': 'password',
+        'HOST':'172.31.94.247',
        'PORT': '5432',
 
     }
