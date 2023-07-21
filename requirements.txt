@@ -93,4 +93,5 @@ djangorestframework_simplejwt
 fastavro
 tableau-api-lib
 PyPDF2
+pyarrow==8.0.0
 
