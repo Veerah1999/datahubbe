@@ -83,4 +83,14 @@ vine==5.0.0
 wcwidth==0.2.5
 wheel==0.37.1
 wrapt==1.14.0
+cx_Oracle
+pyorc
+teradata
+pyarrow==8.0.0
+pyodbc
+google-cloud-storage
+djangorestframework_simplejwt
+fastavro
+tableau-api-lib
+PyPDF2
 
